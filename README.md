@@ -1,2 +1,2 @@
 # hello-word
-Pour apprendre les commande github
+Pour apprendre les commandes github
